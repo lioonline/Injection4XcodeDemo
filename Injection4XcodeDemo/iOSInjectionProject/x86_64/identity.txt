@@ -1,0 +1,2 @@
+/Users/cocoalee/Library/Developer/Xcode/DerivedData/Injection4XcodeDemo-fwcfwosrpflzvcbcslbqlekxldkr/Build/Products/Debug-iphonesimulator/Injection4XcodeDemo.app
+
